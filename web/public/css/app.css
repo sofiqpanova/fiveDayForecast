@@ -1,0 +1,24 @@
+.row {
+    background-color:#b34700;
+    color: white;
+    margin-top: 12px !important;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #ffffcc;
+}
+
+.vcenter {
+    position: absolute;
+    top: 50%;
+
+    transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    -o-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+}
+
+h6 {
+    margin: 0.5em;
+}
